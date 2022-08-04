@@ -46,7 +46,7 @@
       theme = "agnoster";
     };
     shellGlobalAliases = {
-ls = "ls -a --color";
+ls = "lsd -ah";
 neofetch = "neofetch --ascii_distro nixos_old";
 gitconfigs = "git clone https://github.com/shammyshanks/configs";
 gitemacs = "git clone https://github.com/shammyshanks/emacs-current";
